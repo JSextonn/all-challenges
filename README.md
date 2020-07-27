@@ -8,5 +8,5 @@ Repository acting as a central location for programming challenges written in al
 - C# (https://github.com/JSextonn/c-sharp-challenges)
 
 ## Original Project
-Below is the original deprecated project housing all programming challenges. All JVM based solutions have since been relocated to this repository.  
+Below is the original deprecated project housing all programming challenges.
 https://github.com/JSextonn/challenges
